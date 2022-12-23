@@ -31,7 +31,7 @@
 ![6.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/5.%20AUDIT%20IT%20LKP.jpg?token=GHSAT0AAAAAAB4Q3O2F6K6XEAWZBFM52OHSY5FCONA)
 
 
-### Sertifikat Pelatihan Pengawasan Komisari Berbasis IT (SIPAKOM) 2021
+### Sertifikat Pelatihan Pengawasan Komisaris Berbasis IT (SIPAKOM) 2021
 
 ![7.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/7.%20PENGAWASAN%20KOMISARIS%20BERBASIS%20IT.jpg?token=GHSAT0AAAAAAB4Q3O2FVEF63K74YFCAMQ34Y5FCSTQ)
 
