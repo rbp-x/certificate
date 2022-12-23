@@ -1,4 +1,4 @@
-# This is my list of my certificates
+# This is my page, of my certificates
 
 
 ### Sertifikat Teknik Jalan Rel Tingkat Muda from APKA Bandung (Asosiasi Profesi Perkeretaapian Indonesia) 
