@@ -53,6 +53,5 @@
 ![11.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/11.%20AUDIT%20IT%20SBS%20-%20USSI%20(ACL).jpg?token=GHSAT0AAAAAAB4Q3O2FIC3SVT3ACXMF5AUUY5FDCTA)
 
 
-
-
-
+### Sertifikat Pelatihan AWARENESS ISO 27001 PT. Sukses Bina Sejati & PT. USSI Pinbuk Prima Software 2022
+![12.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/12.%20TRAINING%20CERTIFICATE%20AWARENESS%20ISO%2027001.jpg)
