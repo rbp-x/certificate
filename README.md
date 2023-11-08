@@ -55,3 +55,6 @@
 
 ### Sertifikat Pelatihan AWARENESS ISO 27001 PT. Sukses Bina Sejati & PT. USSI Pinbuk Prima Software 2022
 ![12.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/12.%20TRAINING%20CERTIFICATE%20AWARENESS%20ISO%2027001.jpg)
+
+### Sertifikat Kehadiran DiCoding Indoensia "Cyber-Smart by Indosat Ooredoo Hutchison Digi Camp" 2023
+![13.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/13.%20Cyber-Smart-Dicoding.jpg)
