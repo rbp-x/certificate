@@ -58,3 +58,6 @@
 
 ### Sertifikat Kehadiran DiCoding Indoensia "Cyber-Smart by Indosat Ooredoo Hutchison Digi Camp" 2023
 ![13.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/13.%20Cyber-Smart-Dicoding.jpg)
+
+### Sertifikat Kehadiran Strategi Pencegahan Cyber Attack "Strategi Pencegahan Serangan Siber" 2024
+![14.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/14.%20Sertifikat%20Webinar%20Cyber%20Security.jpg)
