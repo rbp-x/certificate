@@ -13,7 +13,7 @@
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi Zpro Consulting 2019
 
-![3.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/3.%20AUDIT%20ITU%20ZINZARI.jpg?token=GHSAT0AAAAAAB4Q3O2FTMMLSZGQJRBNIXGEY5FCFGA)
+![3.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/3.%20AUDIT%20ITU%20ZINZARI.jpg)
 
 
 ### Sertifikat Pelatihan Audit Intern Perbarindo 2019
