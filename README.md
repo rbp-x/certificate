@@ -8,7 +8,7 @@
 
 ### Sertifikat Pelatihan Train Watcher from PT. Kereta Api Indonesia (Persero) Daop 6 Yogyakarta
 
-![2.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/2.%20TRAIN%20WATCHER.jpg?token=GHSAT0AAAAAAB4Q3O2FBNFCMSMZ7CAZHGWOY5FCD6A)
+![2.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/2.%20TRAIN%20WATCHER.jpg)
 
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi Zpro Consulting 2019
