@@ -3,7 +3,7 @@
 
 ### Sertifikat Teknik Jalan Rel Tingkat Muda from APKA Bandung (Asosiasi Profesi Perkeretaapian Indonesia) 
    
-![1.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/1.%20TEKNIK%20JALAN%20RELL%20TINGKAT%20MUDA.jpg?token=GHSAT0AAAAAAB4Q3O2FGBDRKDAVAPSCC2NCY5FCCEQ)
+![1.jpg] [https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/1.%20TEKNIK%20JALAN%20RELL%20TINGKAT%20MUDA.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/1.%20TEKNIK%20JALAN%20RELL%20TINGKAT%20MUDA.jpg)
 
 
 ### Sertifikat Pelatihan Train Watcher from PT. Kereta Api Indonesia (Persero) Daop 6 Yogyakarta
