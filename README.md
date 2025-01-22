@@ -28,7 +28,7 @@
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi LKP Mitra Profesi dg PT. Mitranet Software Online (2021)
 
-![6.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/5.%20AUDIT%20IT%20LKP.jpg?token=GHSAT0AAAAAAB4Q3O2F6K6XEAWZBFM52OHSY5FCONA)
+![6.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/6.%20AUDIT%20IT%20MLC.jpg)
 
 
 ### Sertifikat Pelatihan Pengawasan Komisaris Berbasis IT (SIPAKOM) 2021
