@@ -18,7 +18,7 @@
 
 ### Sertifikat Pelatihan Audit Intern Perbarindo 2019
 
-![4.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/4.%20AUDIT%20INTERN%20PERBARINDO%202019.jpg?token=GHSAT0AAAAAAB4Q3O2EH4Y4LDP24JF6IOZSY5FCNLQ)
+![4.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/4.%20AUDIT%20INTERN%20PERBARINDO%202019.jpg)
 
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi Microfinance Learning Center (2020)
