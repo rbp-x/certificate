@@ -38,10 +38,7 @@
 
 ### Sertifikat Kompetensi Audit 7 modul Pejabat Eksekutif BPR 2021
 
-![8.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/8.%20SERTIFIKAT%20PE%20AUDIT%20BNSP%207%20MODUL.jpg?token=GHSAT0AAAAAAB4Q3O2EIDWDBRB72JH6LFZEY5FCUJQ)
-
-![9.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/9.%20SERTIFIKAT%20PE%20AUDIT%20BNSP%207%20MODUL.jpg?token=GHSAT0AAAAAAB4Q3O2FEUGAD5ZKMWSF2KHQY5FCULQ)
-
+![8.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/8.%20SERTIFIKAT%20PE%20AUDIT%20BNSP%207%20MODUL.jpg)
 
 ### Sertifikat Pelatihan Audit Teknologi Informasi PT. Sukses Bina Sejati & PT. USSI Pinbuk Prima Software 2022
 
