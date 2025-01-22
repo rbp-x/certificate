@@ -47,7 +47,7 @@
 
 ### Sertifikat Pelatihan Audit Teknologi Informasi Berbasis Audit Command Language PT. Sukses Bina Sejati & PT. USSI Pinbuk Prima Software 2022
 
-![11.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/11.%20AUDIT%20IT%20SBS%20-%20USSI%20(ACL).jpg?token=GHSAT0AAAAAAB4Q3O2FIC3SVT3ACXMF5AUUY5FDCTA)
+![11.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/11.%20AUDIT%20IT%20SBS%20-%20USSI%20(ACL).jpg)
 
 
 ### Sertifikat Pelatihan AWARENESS ISO 27001 PT. Sukses Bina Sejati & PT. USSI Pinbuk Prima Software 2022
