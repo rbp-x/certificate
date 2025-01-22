@@ -23,7 +23,7 @@
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi Microfinance Learning Center (2020)
 
-![5.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/6.%20AUDIT%20IT%20MLC.jpg?token=GHSAT0AAAAAAB4Q3O2F5MZFH45IENV76UZCY5FCQ5A)
+![5.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/5.%20AUDIT%20IT%20LKP.jpg)
 
 
 ### Sertifikat Pelatihan Audit Intern Teknologi Informasi LKP Mitra Profesi dg PT. Mitranet Software Online (2021)
