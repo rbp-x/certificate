@@ -33,7 +33,7 @@
 
 ### Sertifikat Pelatihan Pengawasan Komisaris Berbasis IT (SIPAKOM) 2021
 
-![7.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/7.%20PENGAWASAN%20KOMISARIS%20BERBASIS%20IT.jpg?token=GHSAT0AAAAAAB4Q3O2FVEF63K74YFCAMQ34Y5FCSTQ)
+![7.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/7.%20PENGAWASAN%20KOMISARIS%20BERBASIS%20IT.jpg)
 
 
 ### Sertifikat Kompetensi Audit 7 modul Pejabat Eksekutif BPR 2021
