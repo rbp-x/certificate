@@ -58,3 +58,8 @@
 
 ### Sertifikat Kehadiran Strategi Pencegahan Cyber Attack "Strategi Pencegahan Serangan Siber" 2024
 ![14.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/main/14.%20Sertifikat%20Webinar%20Cyber%20Security.jpg)
+
+### Sertifikat Pelatihan Risk Based Internal Audit
+![15.jpg](https://raw.githubusercontent.com/rbp-x/pict_certif/refs/heads/main/15.RiskBasedAudit.jpg)
+
+
